@@ -1,0 +1,18 @@
+/* * {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(58, 25, 149);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.movie {
+    width: 300 px;
+}
+
+.movie>img {
+    width: 100%;
+} */
